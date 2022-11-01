@@ -1,0 +1,5 @@
+export const jeweleryRoute="https://fakestoreapi.com/products/category/jewelery"
+export const menClothingRoute="https://fakestoreapi.com/products/category/men's%20clothing"
+export const womenClothingRoute="https://fakestoreapi.com/products/category/women's%20clothing"
+export const electronicsRoute="https://fakestoreapi.com/products/category/electronics"
+export const categoryBaseRoute="https://fakestoreapi.com/products/category"

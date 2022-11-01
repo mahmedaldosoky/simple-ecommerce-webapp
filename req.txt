@@ -1,0 +1,14 @@
+Project: Ecommerce Site
+ Ecommerce Site Should consist of 3 Pages
+(Home - about – Contact US)
+ Home Page Should consist of Slider
+ Navbar For Navigation between 3 paged
+ Section contain some info about Products on the site
+ Filters for Categories , each category should have
+group of products
+ On clicking on each category should display the
+group of its products
+The cart should contain numbers of products that
+will be purchasing
+ Footer that have some conent , company contact
+and social media icons using (Fontowsome Library)
